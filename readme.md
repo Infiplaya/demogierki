@@ -1,5 +1,4 @@
 # LOST KNIGHT
-#### Video Demo:  <https://youtu.be/9TwwR-VbXLI>
 #### Description:
 As my final project, I decided to make a simple platform type game because I thought it could be an interesting challenge and I wanted to see how games are made. The game is written in LUA using the LÖVE framework. My game is based on a series of tutorials from youtuber DevJeeper, which I found to be really well done and allowed me to understand what it is like to create such a game. Thanks! The game has 3 levels, which I used a program called Tiled to create. I used a package of blocks from: https://beyonderboy.itch.io/simple-platform-tileset-16x16
 The background photo is from:
